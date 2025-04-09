@@ -2,6 +2,7 @@
 
 ## Task: Automate Code Deployment Using CI/CD Pipeline (GitHub & Actions)
 
+![Alt text](https://miro.medium.com/v2/resize:fit:720/1*FRvPUiHgbXaGHQC023yErA.png)
 
 ## Steps Followed
 1. **Created a node.JS Application and built a Dockerfile "**
