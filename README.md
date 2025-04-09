@@ -1,6 +1,6 @@
 #  Day 1 - DevOps Internship @ Elevate Labs
 
-## Task: Automate Docker Image Build and Push using GitHub Actions
+## Task: Automate Code Deployment Using CI/CD Pipeline (GitHub & Actions)
 
 
 ## Steps Followed
